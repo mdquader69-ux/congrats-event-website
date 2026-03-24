@@ -1,0 +1,1 @@
+{\n  "buildCommand": "npm run build",\n  "devCommand": "npm start",\n  "installCommand": "npm install",\n  "framework": "create-react-app",\n  "outputDirectory": "build"\n}
